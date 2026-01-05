@@ -27,7 +27,7 @@ OpenCode 是一个开源的 AI 编程助手项目，具有 100% 开源、生产�
 
 1. 克隆本仓库到本地：
    ```bash
-   git clone https://github.com/your-username/AgentTutorial.git
+   git clone https://github.com/OldManKHan/AgentTutorial.git
    cd AgentTutorial
    ```
 

@@ -2,7 +2,7 @@
 
 ## 项目简介
 
-这是一个基于 [OpenCode](https://github.com/opencode/opencode) 开源项目的 AI Agent 完整教程。教程面向 Agent 小白，通过系统讲解理论与实践，帮助你从零理解 AI Agent 的工作原理，并学会如何开发自己的 Agent。
+这是一个基于 [OpenCode](https://github.com/anomalyco/opencode.git) 开源项目的 AI Agent 完整教程。教程面向 Agent 小白，通过系统讲解理论与实践，帮助你从零理解 AI Agent 的工作原理，并学会如何开发自己的 Agent。
 
 OpenCode 是一个开源的 AI 编程助手项目，具有 100% 开源、生产级质量、架构清晰、功能完整等特点，非常适合作为学习 Agent 开发的入门项目。
 
@@ -35,7 +35,7 @@ OpenCode 是一个开源的 AI 编程助手项目，具有 100% 开源、生产�
 
 3. 每个章节都包含理论讲解和代码示例，建议边读边实践。
 
-4. 遇到问题时，可以参考 [OpenCode 项目](https://github.com/opencode/opencode) 的源代码。
+4. 遇到问题时，可以参考 [OpenCode 项目](https://github.com/anomalyco/opencode.git) 的源代码。
 
 
 ## 贡献
